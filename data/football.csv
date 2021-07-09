@@ -1,0 +1,799 @@
+Type,Own_Team,Opp_Team,Own_Goal,Opp_Goal,Day,Month,Year
+Copa America,Brazil,Peru,3,1,7,7,2019
+Copa America,Peru,Brazil,1,3,7,7,2019
+Copa America,Argentina,Chile,2,1,6,7,2019
+Copa America,Chile,Argentina,1,2,6,7,2019
+Copa America,Chile,Peru,0,3,4,7,2019
+Copa America,Peru,Chile,3,0,4,7,2019
+Copa America,Brazil,Argentina,2,0,3,7,2019
+Copa America,Argentina,Brazil,0,2,3,7,2019
+Copa America,Colombia,Chile,0,0,29,6,2019
+Copa America,Uruguay,Peru,0,0,29,6,2019
+Copa America,Chile,Colombia,0,0,29,6,2019
+Copa America,Peru,Uruguay,0,0,29,6,2019
+Copa America,Brazil,Paraguay,0,0,28,6,2019
+Copa America,Venezuela,Argentina,0,0,28,6,2019
+Copa America,Paraguay,Brazil,0,0,28,6,2019
+Copa America,Argentina,Venezuela,0,0,28,6,2019
+Copa America,Chile,Uruguay,0,1,25,6,2019
+Copa America,Ecuador,Japan,0,1,25,6,2019
+Copa America,Uruguay,Chile,1,0,25,6,2019
+Copa America,Japan,Ecuador,1,0,25,6,2019
+Copa America,Colombia,Paraguay,1,0,23,6,2019
+Copa America,Qatar,Argentina,1,0,23,6,2019
+Copa America,Paraguay,Colombia,0,1,23,6,2019
+Copa America,Argentina,Qatar,0,1,23,6,2019
+Copa America,Ecuador,Chile,1,2,22,6,2019
+Copa America,Peru,Brazil,1,2,22,6,2019
+Copa America,Bolivia,Venezuela,1,2,22,6,2019
+Copa America,Chile,Ecuador,2,1,22,6,2019
+Copa America,Brazil,Peru,2,1,22,6,2019
+Copa America,Venezuela,Bolivia,2,1,22,6,2019
+Copa America,Uruguay,Japan,2,2,21,6,2019
+Copa America,Japan,Uruguay,2,2,21,6,2019
+Copa America,Argentina,Paraguay,1,1,20,6,2019
+Copa America,Paraguay,Argentina,1,1,20,6,2019
+Copa America,Brazil,Venezuela,0,0,19,6,2019
+Copa America,Colombia,Qatar,0,0,19,6,2019
+Copa America,Venezuela,Brazil,0,0,19,6,2019
+Copa America,Qatar,Colombia,0,0,19,6,2019
+Copa America,Japan,Chile,0,4,18,6,2019
+Copa America,Bolivia,Peru,0,4,18,6,2019
+Copa America,Chile,Japan,4,0,18,6,2019
+Copa America,Peru,Bolivia,4,0,18,6,2019
+Copa America,Paraguay,Qatar,2,2,16,6,2019
+Copa America,Uruguay,Ecuador,2,2,16,6,2019
+Copa America,Qatar,Paraguay,2,2,16,6,2019
+Copa America,Ecuador,Uruguay,2,2,16,6,2019
+Copa America,Brazil,Bolivia,3,0,15,6,2019
+Copa America,Venezuela,Peru,3,0,15,6,2019
+Copa America,Argentina,Colombia,3,0,15,6,2019
+Copa America,Bolivia,Brazil,0,3,15,6,2019
+Copa America,Peru,Venezuela,0,3,15,6,2019
+Copa America,Colombia,Argentina,0,3,15,6,2019
+World Cup,France,Croatia,4,2,15,7,2018
+World Cup,Croatia,France,2,4,15,7,2018
+World Cup,Belgium,England,2,0,14,7,2018
+World Cup,England,Belgium,0,2,14,7,2018
+World Cup,Croatia,England,2,1,11,7,2018
+World Cup,England,Croatia,1,2,11,7,2018
+World Cup,France,Belgium,1,0,10,7,2018
+World Cup,Belgium,France,0,1,10,7,2018
+World Cup,Sweden,England,0,2,7,7,2018
+World Cup,Russia,Croatia,0,2,7,7,2018
+World Cup,England,Sweden,2,0,7,7,2018
+World Cup,Croatia,Russia,2,0,7,7,2018
+World Cup,Uruguay,France,0,2,6,7,2018
+World Cup,Brazil,Belgium,0,2,6,7,2018
+World Cup,France,Uruguay,2,0,6,7,2018
+World Cup,Belgium,Brazil,2,0,6,7,2018
+World Cup,Sweden,Switzerland,1,0,3,7,2018
+World Cup,Colombia,England,1,0,3,7,2018
+World Cup,Switzerland,Sweden,0,1,3,7,2018
+World Cup,England,Colombia,0,1,3,7,2018
+World Cup,Brazil,Mexico,2,0,2,7,2018
+World Cup,Belgium,Japan,2,0,2,7,2018
+World Cup,Mexico,Brazil,0,2,2,7,2018
+World Cup,Japan,Belgium,0,2,2,7,2018
+World Cup,Spain,Russia,1,1,1,7,2018
+World Cup,Croatia,Denmark,1,1,1,7,2018
+World Cup,Russia,Spain,1,1,1,7,2018
+World Cup,Denmark,Croatia,1,1,1,7,2018
+World Cup,France,Argentina,4,3,30,6,2018
+World Cup,Uruguay,Portugal,4,3,30,6,2018
+World Cup,Argentina,France,3,4,30,6,2018
+World Cup,Portugal,Uruguay,3,4,30,6,2018
+World Cup,Japan,Poland,0,1,28,6,2018
+World Cup,Senegal,Colombia,0,1,28,6,2018
+World Cup,England,Belgium,0,1,28,6,2018
+World Cup,Panama,Tunisia,0,1,28,6,2018
+World Cup,Poland,Japan,1,0,28,6,2018
+World Cup,Colombia,Senegal,1,0,28,6,2018
+World Cup,Belgium,England,1,0,28,6,2018
+World Cup,Tunisia,Panama,1,0,28,6,2018
+World Cup,Mexico,Sweden,0,3,27,6,2018
+World Cup,South Korea,Germany,0,3,27,6,2018
+World Cup,Serbia,Brazil,0,3,27,6,2018
+World Cup,Switzerland,Costa Rica,0,3,27,6,2018
+World Cup,Sweden,Mexico,3,0,27,6,2018
+World Cup,Germany,South Korea,3,0,27,6,2018
+World Cup,Brazil,Serbia,3,0,27,6,2018
+World Cup,Costa Rica,Switzerland,3,0,27,6,2018
+World Cup,Denmark,France,0,0,26,6,2018
+World Cup,Australia,Peru,0,0,26,6,2018
+World Cup,Nigeria,Argentina,0,0,26,6,2018
+World Cup,Iceland,Croatia,0,0,26,6,2018
+World Cup,France,Denmark,0,0,26,6,2018
+World Cup,Peru,Australia,0,0,26,6,2018
+World Cup,Argentina,Nigeria,0,0,26,6,2018
+World Cup,Croatia,Iceland,0,0,26,6,2018
+World Cup,Uruguay,Russia,3,0,25,6,2018
+World Cup,Saudi Arabia,Egypt,3,0,25,6,2018
+World Cup,Spain,Morocco,3,0,25,6,2018
+World Cup,Iran,Portugal,3,0,25,6,2018
+World Cup,Russia,Uruguay,0,3,25,6,2018
+World Cup,Egypt,Saudi Arabia,0,3,25,6,2018
+World Cup,Morocco,Spain,0,3,25,6,2018
+World Cup,Portugal,Iran,0,3,25,6,2018
+World Cup,England,Panama,6,1,24,6,2018
+World Cup,Japan,Senegal,6,1,24,6,2018
+World Cup,Poland,Colombia,6,1,24,6,2018
+World Cup,Panama,England,1,6,24,6,2018
+World Cup,Senegal,Japan,1,6,24,6,2018
+World Cup,Colombia,Poland,1,6,24,6,2018
+World Cup,Belgium,Tunisia,5,2,23,6,2018
+World Cup,South Korea,Mexico,5,2,23,6,2018
+World Cup,Germany,Sweden,5,2,23,6,2018
+World Cup,Tunisia,Belgium,2,5,23,6,2018
+World Cup,Mexico,South Korea,2,5,23,6,2018
+World Cup,Sweden,Germany,2,5,23,6,2018
+World Cup,Brazil,Costa Rica,2,0,22,6,2018
+World Cup,Nigeria,Iceland,2,0,22,6,2018
+World Cup,Serbia,Switzerland,2,0,22,6,2018
+World Cup,Costa Rica,Brazil,0,2,22,6,2018
+World Cup,Iceland,Nigeria,0,2,22,6,2018
+World Cup,Switzerland,Serbia,0,2,22,6,2018
+World Cup,Denmark,Australia,1,1,21,6,2018
+World Cup,France,Peru,1,1,21,6,2018
+World Cup,Argentina,Croatia,1,1,21,6,2018
+World Cup,Australia,Denmark,1,1,21,6,2018
+World Cup,Peru,France,1,1,21,6,2018
+World Cup,Croatia,Argentina,1,1,21,6,2018
+World Cup,Portugal,Morocco,1,0,20,6,2018
+World Cup,Uruguay,Saudi Arabia,1,0,20,6,2018
+World Cup,Iran,Spain,1,0,20,6,2018
+World Cup,Morocco,Portugal,0,1,20,6,2018
+World Cup,Saudi Arabia,Uruguay,0,1,20,6,2018
+World Cup,Spain,Iran,0,1,20,6,2018
+World Cup,Colombia,Japan,1,2,19,6,2018
+World Cup,Poland,Senegal,1,2,19,6,2018
+World Cup,Russia,Egypt,1,2,19,6,2018
+World Cup,Japan,Colombia,2,1,19,6,2018
+World Cup,Senegal,Poland,2,1,19,6,2018
+World Cup,Egypt,Russia,2,1,19,6,2018
+World Cup,Sweden,South Korea,1,0,18,6,2018
+World Cup,Belgium,Panama,1,0,18,6,2018
+World Cup,Tunisia,England,1,0,18,6,2018
+World Cup,South Korea,Sweden,0,1,18,6,2018
+World Cup,Panama,Belgium,0,1,18,6,2018
+World Cup,England,Tunisia,0,1,18,6,2018
+World Cup,Costa Rica,Serbia,0,1,17,6,2018
+World Cup,Germany,Mexico,0,1,17,6,2018
+World Cup,Brazil,Switzerland,0,1,17,6,2018
+World Cup,Serbia,Costa Rica,1,0,17,6,2018
+World Cup,Mexico,Germany,1,0,17,6,2018
+World Cup,Switzerland,Brazil,1,0,17,6,2018
+World Cup,France,Australia,2,1,16,6,2018
+World Cup,Argentina,Iceland,2,1,16,6,2018
+World Cup,Peru,Denmark,2,1,16,6,2018
+World Cup,Croatia,Nigeria,2,1,16,6,2018
+World Cup,Australia,France,1,2,16,6,2018
+World Cup,Iceland,Argentina,1,2,16,6,2018
+World Cup,Denmark,Peru,1,2,16,6,2018
+World Cup,Nigeria,Croatia,1,2,16,6,2018
+World Cup,Egypt,Uruguay,0,1,15,6,2018
+World Cup,Morocco,Iran,0,1,15,6,2018
+World Cup,Portugal,Spain,0,1,15,6,2018
+World Cup,Uruguay,Egypt,1,0,15,6,2018
+World Cup,Iran,Morocco,1,0,15,6,2018
+World Cup,Spain,Portugal,1,0,15,6,2018
+World Cup,Russia,Saudi Arabia,5,0,14,6,2018
+World Cup,Saudi Arabia,Russia,0,5,14,6,2018
+EURO,Portugal,France,1,0,10,7,2016
+EURO,France,Portugal,0,1,10,7,2016
+EURO,Germany,France,0,2,7,7,2016
+EURO,France,Germany,2,0,7,7,2016
+EURO,Portugal,Wales,2,0,6,7,2016
+EURO,Wales,Portugal,0,2,6,7,2016
+EURO,France,Iceland,5,2,3,7,2016
+EURO,Iceland,France,2,5,3,7,2016
+EURO,Germany,Italy,1,1,2,7,2016
+EURO,Italy,Germany,1,1,2,7,2016
+EURO,Wales,Belgium,3,1,1,7,2016
+EURO,Belgium,Wales,1,3,1,7,2016
+EURO,Poland,Portugal,1,1,30,6,2016
+EURO,Portugal,Poland,1,1,30,6,2016
+EURO,Italy,Spain,2,0,27,6,2016
+EURO,England,Iceland,2,0,27,6,2016
+EURO,Spain,Italy,0,2,27,6,2016
+EURO,Iceland,England,0,2,27,6,2016
+Copa America,Argentina,Chile,0,0,27,6,2016
+Copa America,Chile,Argentina,0,0,27,6,2016
+EURO,France,Ireland,2,1,26,6,2016
+EURO,Germany,Slovakia,2,1,26,6,2016
+EURO,Hungary,Belgium,2,1,26,6,2016
+EURO,Ireland,France,1,2,26,6,2016
+EURO,Slovakia,Germany,1,2,26,6,2016
+EURO,Belgium,Hungary,1,2,26,6,2016
+Copa America,United States,Colombia,0,1,26,6,2016
+Copa America,Colombia,United States,1,0,26,6,2016
+EURO,Switzerland,Poland,1,1,25,6,2016
+EURO,Wales,Northern Ireland,1,1,25,6,2016
+EURO,Croatia,Portugal,1,1,25,6,2016
+EURO,Poland,Switzerland,1,1,25,6,2016
+EURO,Northern Ireland,Wales,1,1,25,6,2016
+EURO,Portugal,Croatia,1,1,25,6,2016
+Copa America,Colombia,Chile,0,2,23,6,2016
+Copa America,Chile,Colombia,2,0,23,6,2016
+EURO,Hungary,Portugal,3,3,22,6,2016
+EURO,Iceland,Austria,3,3,22,6,2016
+EURO,Sweden,Belgium,3,3,22,6,2016
+EURO,Italy,Ireland,3,3,22,6,2016
+EURO,Portugal,Hungary,3,3,22,6,2016
+EURO,Austria,Iceland,3,3,22,6,2016
+EURO,Belgium,Sweden,3,3,22,6,2016
+EURO,Ireland,Italy,3,3,22,6,2016
+Copa America,United States,Argentina,0,4,22,6,2016
+Copa America,Argentina,United States,4,0,22,6,2016
+EURO,Northern Ireland,Germany,0,1,21,6,2016
+EURO,Ukraine,Poland,0,1,21,6,2016
+EURO,Croatia,Spain,0,1,21,6,2016
+EURO,Czech Republic,Turkey,0,1,21,6,2016
+EURO,Germany,Northern Ireland,1,0,21,6,2016
+EURO,Poland,Ukraine,1,0,21,6,2016
+EURO,Spain,Croatia,1,0,21,6,2016
+EURO,Turkey,Czech Republic,1,0,21,6,2016
+EURO,Slovakia,England,0,0,20,6,2016
+EURO,Russia,Wales,0,0,20,6,2016
+EURO,England,Slovakia,0,0,20,6,2016
+EURO,Wales,Russia,0,0,20,6,2016
+EURO,Switzerland,France,0,0,19,6,2016
+EURO,Romania,Albaniaa,0,0,19,6,2016
+EURO,France,Switzerland,0,0,19,6,2016
+EURO,Albaniaa,Romania,0,0,19,6,2016
+Copa America,Argentina,Venezuela,4,1,19,6,2016
+Copa America,Mexico,Chile,4,1,19,6,2016
+Copa America,Venezuela,Argentina,1,4,19,6,2016
+Copa America,Chile,Mexico,1,4,19,6,2016
+EURO,Belgium,Ireland,3,0,18,6,2016
+EURO,Iceland,Hungary,3,0,18,6,2016
+EURO,Portugal,Austria,3,0,18,6,2016
+EURO,Ireland,Belgium,0,3,18,6,2016
+EURO,Hungary,Iceland,0,3,18,6,2016
+EURO,Austria,Portugal,0,3,18,6,2016
+Copa America,Peru,Colombia,0,0,18,6,2016
+Copa America,Colombia,Peru,0,0,18,6,2016
+EURO,Italy,Sweden,1,0,17,6,2016
+EURO,Czech Republic,Croatia,1,0,17,6,2016
+EURO,Spain,Turkey,1,0,17,6,2016
+EURO,Sweden,Italy,0,1,17,6,2016
+EURO,Croatia,Czech Republic,0,1,17,6,2016
+EURO,Turkey,Spain,0,1,17,6,2016
+Copa America,United States,Ecuador,2,1,17,6,2016
+Copa America,Ecuador,United States,1,2,17,6,2016
+EURO,England,Wales,2,1,16,6,2016
+EURO,Ukraine,Northern Ireland,2,1,16,6,2016
+EURO,Germany,Poland,2,1,16,6,2016
+EURO,Wales,England,1,2,16,6,2016
+EURO,Northern Ireland,Ukraine,1,2,16,6,2016
+EURO,Poland,Germany,1,2,16,6,2016
+EURO,Russia,Slovakia,1,2,15,6,2016
+EURO,Romania,Switzerland,1,2,15,6,2016
+EURO,France,Albaniaa,1,2,15,6,2016
+EURO,Slovakia,Russia,2,1,15,6,2016
+EURO,Switzerland,Romania,2,1,15,6,2016
+EURO,Albaniaa,France,2,1,15,6,2016
+Copa America,Chile,Panama,4,2,15,6,2016
+Copa America,Argentina,Bolivia,4,2,15,6,2016
+Copa America,Panama,Chile,2,4,15,6,2016
+Copa America,Bolivia,Argentina,2,4,15,6,2016
+EURO,Austria,Hungary,0,2,14,6,2016
+EURO,Portugal,Iceland,0,2,14,6,2016
+EURO,Hungary,Austria,2,0,14,6,2016
+EURO,Iceland,Portugal,2,0,14,6,2016
+Copa America,Mexico,Venezuela,1,1,14,6,2016
+Copa America,Uruguay,Jamaica,1,1,14,6,2016
+Copa America,Venezuela,Mexico,1,1,14,6,2016
+Copa America,Jamaica,Uruguay,1,1,14,6,2016
+EURO,Spain,Czech Republic,1,0,13,6,2016
+EURO,Ireland,Sweden,1,0,13,6,2016
+EURO,Belgium,Italy,1,0,13,6,2016
+EURO,Czech Republic,Spain,0,1,13,6,2016
+EURO,Sweden,Ireland,0,1,13,6,2016
+EURO,Italy,Belgium,0,1,13,6,2016
+Copa America,Brazil,Peru,0,1,13,6,2016
+Copa America,Peru,Brazil,1,0,13,6,2016
+EURO,Turkey,Croatia,0,1,12,6,2016
+EURO,Poland,Northern Ireland,0,1,12,6,2016
+EURO,Germany,Ukraine,0,1,12,6,2016
+EURO,Croatia,Turkey,1,0,12,6,2016
+EURO,Northern Ireland,Poland,1,0,12,6,2016
+EURO,Ukraine,Germany,1,0,12,6,2016
+Copa America,United States,Paraguay,1,0,12,6,2016
+Copa America,Colombia,Costa Rica,1,0,12,6,2016
+Copa America,Ecuador,Haiti,1,0,12,6,2016
+Copa America,Paraguay,United States,0,1,12,6,2016
+Copa America,Costa Rica,Colombia,0,1,12,6,2016
+Copa America,Haiti,Ecuador,0,1,12,6,2016
+EURO,Albaniaa,Switzerland,0,1,11,6,2016
+EURO,Wales,Slovakia,0,1,11,6,2016
+EURO,England,Russia,0,1,11,6,2016
+EURO,Switzerland,Albaniaa,1,0,11,6,2016
+EURO,Slovakia,Wales,1,0,11,6,2016
+EURO,Russia,England,1,0,11,6,2016
+Copa America,Chile,Bolivia,2,1,11,6,2016
+Copa America,Argentina,Panama,2,1,11,6,2016
+Copa America,Bolivia,Chile,1,2,11,6,2016
+Copa America,Panama,Argentina,1,2,11,6,2016
+EURO,France,Romania,2,1,10,6,2016
+EURO,Romania,France,1,2,10,6,2016
+Copa America,Uruguay,Venezuela,0,1,10,6,2016
+Copa America,Mexico,Jamaica,0,1,10,6,2016
+Copa America,Venezuela,Uruguay,1,0,10,6,2016
+Copa America,Jamaica,Mexico,1,0,10,6,2016
+Copa America,Brazil,Haiti,7,1,9,6,2016
+Copa America,Ecuador,Peru,7,1,9,6,2016
+Copa America,Haiti,Brazil,1,7,9,6,2016
+Copa America,Peru,Ecuador,1,7,9,6,2016
+Copa America,United States,Costa Rica,4,0,8,6,2016
+Copa America,Colombia,Paraguay,4,0,8,6,2016
+Copa America,Costa Rica,United States,0,4,8,6,2016
+Copa America,Paraguay,Colombia,0,4,8,6,2016
+Copa America,Panama,Bolivia,2,1,7,6,2016
+Copa America,Argentina,Chile,2,1,7,6,2016
+Copa America,Bolivia,Panama,1,2,7,6,2016
+Copa America,Chile,Argentina,1,2,7,6,2016
+Copa America,Mexico,Uruguay,3,1,6,6,2016
+Copa America,Uruguay,Mexico,1,3,6,6,2016
+Copa America,Haiti,Peru,0,1,5,6,2016
+Copa America,Brazil,Ecuador,0,1,5,6,2016
+Copa America,Jamaica,Venezuela,0,1,5,6,2016
+Copa America,Peru,Haiti,1,0,5,6,2016
+Copa America,Ecuador,Brazil,1,0,5,6,2016
+Copa America,Venezuela,Jamaica,1,0,5,6,2016
+Copa America,United States,Colombia,0,2,4,6,2016
+Copa America,Costa Rica,Paraguay,0,2,4,6,2016
+Copa America,Colombia,United States,2,0,4,6,2016
+Copa America,Paraguay,Costa Rica,2,0,4,6,2016
+Copa America,Peru,Paraguay,2,0,4,7,2015
+Copa America,Chile,Argentina,2,0,4,7,2015
+Copa America,Paraguay,Peru,0,2,4,7,2015
+Copa America,Argentina,Chile,0,2,4,7,2015
+Copa America,Argentina,Paraguay,6,1,1,7,2015
+Copa America,Paraguay,Argentina,1,6,1,7,2015
+Copa America,Chile,Peru,2,1,30,6,2015
+Copa America,Peru,Chile,1,2,30,6,2015
+Copa America,Argentina,Colombia,0,0,27,6,2015
+Copa America,Brazil,Paraguay,0,0,27,6,2015
+Copa America,Colombia,Argentina,0,0,27,6,2015
+Copa America,Paraguay,Brazil,0,0,27,6,2015
+Copa America,Bolivia,Peru,1,3,26,6,2015
+Copa America,Peru,Bolivia,3,1,26,6,2015
+Copa America,Chile,Uruguay,1,0,25,6,2015
+Copa America,Uruguay,Chile,0,1,25,6,2015
+Copa America,Colombia,Peru,0,0,21,6,2015
+Copa America,Brazil,Venezuela,0,0,21,6,2015
+Copa America,Peru,Colombia,0,0,21,6,2015
+Copa America,Venezuela,Brazil,0,0,21,6,2015
+Copa America,Chile,Bolivia,5,0,20,6,2015
+Copa America,Uruguay,Paraguay,5,0,20,6,2015
+Copa America,Argentina,Jamaica,5,0,20,6,2015
+Copa America,Bolivia,Chile,0,5,20,6,2015
+Copa America,Paraguay,Uruguay,0,5,20,6,2015
+Copa America,Jamaica,Argentina,0,5,20,6,2015
+Copa America,Peru,Venezuela,1,0,19,6,2015
+Copa America,Mexico,Ecuador,1,0,19,6,2015
+Copa America,Venezuela,Peru,0,1,19,6,2015
+Copa America,Ecuador,Mexico,0,1,19,6,2015
+Copa America,Brazil,Colombia,0,1,18,6,2015
+Copa America,Colombia,Brazil,1,0,18,6,2015
+Copa America,Argentina,Uruguay,1,0,17,6,2015
+Copa America,Uruguay,Argentina,0,1,17,6,2015
+Copa America,Chile,Mexico,3,3,16,6,2015
+Copa America,Paraguay,Jamaica,3,3,16,6,2015
+Copa America,Mexico,Chile,3,3,16,6,2015
+Copa America,Jamaica,Paraguay,3,3,16,6,2015
+Copa America,Ecuador,Bolivia,2,3,15,6,2015
+Copa America,Bolivia,Ecuador,3,2,15,6,2015
+Copa America,Colombia,Venezuela,0,1,14,6,2015
+Copa America,Brazil,Peru,0,1,14,6,2015
+Copa America,Venezuela,Colombia,1,0,14,6,2015
+Copa America,Peru,Brazil,1,0,14,6,2015
+Copa America,Mexico,Bolivia,0,0,13,6,2015
+Copa America,Uruguay,Jamaica,0,0,13,6,2015
+Copa America,Argentina,Paraguay,0,0,13,6,2015
+Copa America,Bolivia,Mexico,0,0,13,6,2015
+Copa America,Jamaica,Uruguay,0,0,13,6,2015
+Copa America,Paraguay,Argentina,0,0,13,6,2015
+Copa America,Chile,Ecuador,2,0,12,6,2015
+Copa America,Ecuador,Chile,0,2,12,6,2015
+World Cup,Germany,Argentina,1,0,13,7,2014
+World Cup,Argentina,Germany,0,1,13,7,2014
+World Cup,Brazil,Netherlands,0,3,12,7,2014
+World Cup,Netherlands,Brazil,3,0,12,7,2014
+World Cup,Netherlands,Argentina,0,0,9,7,2014
+World Cup,Argentina,Netherlands,0,0,9,7,2014
+World Cup,Brazil,Germany,1,7,8,7,2014
+World Cup,Germany,Brazil,7,1,8,7,2014
+World Cup,Argentina,Belgium,1,0,5,7,2014
+World Cup,Netherlands,Costa Rica,1,0,5,7,2014
+World Cup,Belgium,Argentina,0,1,5,7,2014
+World Cup,Costa Rica,Netherlands,0,1,5,7,2014
+World Cup,France,Germany,0,1,4,7,2014
+World Cup,Brazil,Colombia,0,1,4,7,2014
+World Cup,Germany,France,1,0,4,7,2014
+World Cup,Colombia,Brazil,1,0,4,7,2014
+World Cup,Argentina,Switzerland,1,0,1,7,2014
+World Cup,Belgium,United States,1,0,1,7,2014
+World Cup,Switzerland,Argentina,0,1,1,7,2014
+World Cup,United States,Belgium,0,1,1,7,2014
+World Cup,France,Nigeria,2,0,30,6,2014
+World Cup,Germany,Algeria,2,0,30,6,2014
+World Cup,Nigeria,France,0,2,30,6,2014
+World Cup,Algeria,Germany,0,2,30,6,2014
+World Cup,Netherlands,Mexico,2,1,29,6,2014
+World Cup,Costa Rica,Greece,2,1,29,6,2014
+World Cup,Mexico,Netherlands,1,2,29,6,2014
+World Cup,Greece,Costa Rica,1,2,29,6,2014
+World Cup,Brazil,Chile,1,1,28,6,2014
+World Cup,Colombia,Uruguay,1,1,28,6,2014
+World Cup,Chile,Brazil,1,1,28,6,2014
+World Cup,Uruguay,Colombia,1,1,28,6,2014
+World Cup,United States,Germany,0,1,26,6,2014
+World Cup,Portugal,Ghana,0,1,26,6,2014
+World Cup,South Korea,Belgium,0,1,26,6,2014
+World Cup,Algeria,Russia,0,1,26,6,2014
+World Cup,Germany,United States,1,0,26,6,2014
+World Cup,Ghana,Portugal,1,0,26,6,2014
+World Cup,Belgium,South Korea,1,0,26,6,2014
+World Cup,Russia,Algeria,1,0,26,6,2014
+World Cup,Nigeria,Argentina,2,3,25,6,2014
+World Cup,Bosnia and Herzegovina,Iran,2,3,25,6,2014
+World Cup,Ecuador,France,2,3,25,6,2014
+World Cup,Honduras,Switzerland,2,3,25,6,2014
+World Cup,Argentina,Nigeria,3,2,25,6,2014
+World Cup,Iran,Bosnia and Herzegovina,3,2,25,6,2014
+World Cup,France,Ecuador,3,2,25,6,2014
+World Cup,Switzerland,Honduras,3,2,25,6,2014
+World Cup,Italy,Uruguay,0,1,24,6,2014
+World Cup,Costa Rica,England,0,1,24,6,2014
+World Cup,Japan,Colombia,0,1,24,6,2014
+World Cup,Greece,Ivory Coast,0,1,24,6,2014
+World Cup,Uruguay,Italy,1,0,24,6,2014
+World Cup,England,Costa Rica,1,0,24,6,2014
+World Cup,Colombia,Japan,1,0,24,6,2014
+World Cup,Ivory Coast,Greece,1,0,24,6,2014
+World Cup,Netherlands,Chile,2,0,23,6,2014
+World Cup,Australia,Spain,2,0,23,6,2014
+World Cup,Croatia,Mexico,2,0,23,6,2014
+World Cup,Cameroon,Brazil,2,0,23,6,2014
+World Cup,Chile,Netherlands,0,2,23,6,2014
+World Cup,Spain,Australia,0,2,23,6,2014
+World Cup,Mexico,Croatia,0,2,23,6,2014
+World Cup,Brazil,Cameroon,0,2,23,6,2014
+World Cup,Belgium,Russia,1,0,22,6,2014
+World Cup,South Korea,Algeria,1,0,22,6,2014
+World Cup,United States,Portugal,1,0,22,6,2014
+World Cup,Russia,Belgium,0,1,22,6,2014
+World Cup,Algeria,South Korea,0,1,22,6,2014
+World Cup,Portugal,United States,0,1,22,6,2014
+World Cup,Argentina,Iran,1,0,21,6,2014
+World Cup,Germany,Ghana,1,0,21,6,2014
+World Cup,Nigeria,Bosnia and Herzegovina,1,0,21,6,2014
+World Cup,Iran,Argentina,0,1,21,6,2014
+World Cup,Ghana,Germany,0,1,21,6,2014
+World Cup,Bosnia and Herzegovina,Nigeria,0,1,21,6,2014
+World Cup,Italy,Costa Rica,0,1,20,6,2014
+World Cup,Switzerland,France,0,1,20,6,2014
+World Cup,Honduras,Ecuador,0,1,20,6,2014
+World Cup,Costa Rica,Italy,1,0,20,6,2014
+World Cup,France,Switzerland,1,0,20,6,2014
+World Cup,Ecuador,Honduras,1,0,20,6,2014
+World Cup,Colombia,Ivory Coast,2,1,19,6,2014
+World Cup,Uruguay,England,2,1,19,6,2014
+World Cup,Japan,Greece,2,1,19,6,2014
+World Cup,Ivory Coast,Colombia,1,2,19,6,2014
+World Cup,England,Uruguay,1,2,19,6,2014
+World Cup,Greece,Japan,1,2,19,6,2014
+World Cup,Australia,Netherlands,2,3,18,6,2014
+World Cup,Spain,Chile,2,3,18,6,2014
+World Cup,Cameroon,Croatia,2,3,18,6,2014
+World Cup,Netherlands,Australia,3,2,18,6,2014
+World Cup,Chile,Spain,3,2,18,6,2014
+World Cup,Croatia,Cameroon,3,2,18,6,2014
+World Cup,Belgium,Algeria,2,1,17,6,2014
+World Cup,Brazil,Mexico,2,1,17,6,2014
+World Cup,Russia,South Korea,2,1,17,6,2014
+World Cup,Algeria,Belgium,1,2,17,6,2014
+World Cup,Mexico,Brazil,1,2,17,6,2014
+World Cup,South Korea,Russia,1,2,17,6,2014
+World Cup,Germany,Portugal,4,0,16,6,2014
+World Cup,Iran,Nigeria,4,0,16,6,2014
+World Cup,Ghana,United States,4,0,16,6,2014
+World Cup,Portugal,Germany,0,4,16,6,2014
+World Cup,Nigeria,Iran,0,4,16,6,2014
+World Cup,United States,Ghana,0,4,16,6,2014
+World Cup,Ivory Coast,Japan,2,1,15,6,2014
+World Cup,Switzerland,Ecuador,2,1,15,6,2014
+World Cup,France,Honduras,2,1,15,6,2014
+World Cup,Argentina,Bosnia and Herzegovina,2,1,15,6,2014
+World Cup,Japan,Ivory Coast,1,2,15,6,2014
+World Cup,Ecuador,Switzerland,1,2,15,6,2014
+World Cup,Honduras,France,1,2,15,6,2014
+World Cup,Bosnia and Herzegovina,Argentina,1,2,15,6,2014
+World Cup,Colombia,Greece,3,0,14,6,2014
+World Cup,Uruguay,Costa Rica,3,0,14,6,2014
+World Cup,England,Italy,3,0,14,6,2014
+World Cup,Greece,Colombia,0,3,14,6,2014
+World Cup,Costa Rica,Uruguay,0,3,14,6,2014
+World Cup,Italy,England,0,3,14,6,2014
+World Cup,Mexico,Cameroon,1,0,13,6,2014
+World Cup,Spain,Netherlands,1,0,13,6,2014
+World Cup,Chile,Australia,1,0,13,6,2014
+World Cup,Cameroon,Mexico,0,1,13,6,2014
+World Cup,Netherlands,Spain,0,1,13,6,2014
+World Cup,Australia,Chile,0,1,13,6,2014
+World Cup,Brazil,Croatia,3,1,12,6,2014
+World Cup,Croatia,Brazil,1,3,12,6,2014
+EURO,Spain,Italy,4,0,1,7,2012
+EURO,Italy,Spain,0,4,1,7,2012
+EURO,Germany,Italy,1,2,28,6,2012
+EURO,Italy,Germany,2,1,28,6,2012
+EURO,Portugal,Spain,0,0,27,6,2012
+EURO,Spain,Portugal,0,0,27,6,2012
+EURO,England,Italy,0,0,24,6,2012
+EURO,Italy,England,0,0,24,6,2012
+EURO,Spain,France,2,0,23,6,2012
+EURO,France,Spain,0,2,23,6,2012
+EURO,Germany,Greece,4,2,22,6,2012
+EURO,Greece,Germany,2,4,22,6,2012
+EURO,Czech Republic,Portugal,0,1,21,6,2012
+EURO,Portugal,Czech Republic,1,0,21,6,2012
+EURO,Sweden,France,2,0,19,6,2012
+EURO,England,Ukraine,2,0,19,6,2012
+EURO,France,Sweden,0,2,19,6,2012
+EURO,Ukraine,England,0,2,19,6,2012
+EURO,Croatia,Spain,0,1,18,6,2012
+EURO,Italy,Ireland,0,1,18,6,2012
+EURO,Spain,Croatia,1,0,18,6,2012
+EURO,Ireland,Italy,1,0,18,6,2012
+EURO,Portugal,Netherlands,2,1,17,6,2012
+EURO,Denmark,Germany,2,1,17,6,2012
+EURO,Netherlands,Portugal,1,2,17,6,2012
+EURO,Germany,Denmark,1,2,17,6,2012
+EURO,Czech Republic,Poland,1,0,16,6,2012
+EURO,Greece,Russia,1,0,16,6,2012
+EURO,Poland,Czech Republic,0,1,16,6,2012
+EURO,Russia,Greece,0,1,16,6,2012
+EURO,Ukraine,France,0,2,15,6,2012
+EURO,Sweden,England,0,2,15,6,2012
+EURO,France,Ukraine,2,0,15,6,2012
+EURO,England,Sweden,2,0,15,6,2012
+EURO,Italy,Croatia,1,1,14,6,2012
+EURO,Spain,Ireland,1,1,14,6,2012
+EURO,Croatia,Italy,1,1,14,6,2012
+EURO,Ireland,Spain,1,1,14,6,2012
+EURO,Denmark,Portugal,2,3,13,6,2012
+EURO,Netherlands,Germany,2,3,13,6,2012
+EURO,Portugal,Denmark,3,2,13,6,2012
+EURO,Germany,Netherlands,3,2,13,6,2012
+EURO,Greece,Czech Republic,1,2,12,6,2012
+EURO,Poland,Russia,1,2,12,6,2012
+EURO,Czech Republic,Greece,2,1,12,6,2012
+EURO,Russia,Poland,2,1,12,6,2012
+EURO,France,England,1,1,11,6,2012
+EURO,Ukraine,Sweden,1,1,11,6,2012
+EURO,England,France,1,1,11,6,2012
+EURO,Sweden,Ukraine,1,1,11,6,2012
+EURO,Spain,Italy,1,1,10,6,2012
+EURO,Ireland,Croatia,1,1,10,6,2012
+EURO,Italy,Spain,1,1,10,6,2012
+EURO,Croatia,Ireland,1,1,10,6,2012
+EURO,Netherlands,Denmark,0,1,9,6,2012
+EURO,Germany,Portugal,0,1,9,6,2012
+EURO,Denmark,Netherlands,1,0,9,6,2012
+EURO,Portugal,Germany,1,0,9,6,2012
+EURO,Poland,Greece,1,1,8,6,2012
+EURO,Russia,Czech Republic,1,1,8,6,2012
+EURO,Greece,Poland,1,1,8,6,2012
+EURO,Czech Republic,Russia,1,1,8,6,2012
+Copa America,Uruguay,Paraguay,3,0,24,7,2011
+Copa America,Paraguay,Uruguay,0,3,24,7,2011
+Copa America,Peru,Venezuela,4,1,23,7,2011
+Copa America,Venezuela,Peru,1,4,23,7,2011
+Copa America,Paraguay,Venezuela,0,0,21,7,2011
+Copa America,Venezuela,Paraguay,0,0,21,7,2011
+Copa America,Peru,Uruguay,0,2,20,7,2011
+Copa America,Uruguay,Peru,2,0,20,7,2011
+Copa America,Brazil,Paraguay,0,0,17,7,2011
+Copa America,Chile,Venezuela,0,0,17,7,2011
+Copa America,Paraguay,Brazil,0,0,17,7,2011
+Copa America,Venezuela,Chile,0,0,17,7,2011
+Copa America,Colombia,Peru,0,2,16,7,2011
+Copa America,Argentina,Uruguay,0,2,16,7,2011
+Copa America,Peru,Colombia,2,0,16,7,2011
+Copa America,Uruguay,Argentina,2,0,16,7,2011
+Copa America,Brazil,Ecuador,4,2,14,7,2011
+Copa America,Ecuador,Brazil,2,4,14,7,2011
+Copa America,Uruguay,Mexico,1,0,13,7,2011
+Copa America,Paraguay,Venezuela,1,0,13,7,2011
+Copa America,Mexico,Uruguay,0,1,13,7,2011
+Copa America,Venezuela,Paraguay,0,1,13,7,2011
+Copa America,Argentina,Costa Rica,3,0,12,7,2011
+Copa America,Chile,Peru,3,0,12,7,2011
+Copa America,Costa Rica,Argentina,0,3,12,7,2011
+Copa America,Peru,Chile,0,3,12,7,2011
+Copa America,Colombia,Bolivia,2,0,10,7,2011
+Copa America,Bolivia,Colombia,0,2,10,7,2011
+Copa America,Peru,Mexico,1,0,9,7,2011
+Copa America,Brazil,Paraguay,1,0,9,7,2011
+Copa America,Venezuela,Ecuador,1,0,9,7,2011
+Copa America,Mexico,Peru,0,1,9,7,2011
+Copa America,Paraguay,Brazil,0,1,9,7,2011
+Copa America,Ecuador,Venezuela,0,1,9,7,2011
+Copa America,Uruguay,Chile,1,1,8,7,2011
+Copa America,Chile,Uruguay,1,1,8,7,2011
+Copa America,Argentina,Colombia,0,0,7,7,2011
+Copa America,Bolivia,Costa Rica,0,0,7,7,2011
+Copa America,Colombia,Argentina,0,0,7,7,2011
+Copa America,Costa Rica,Bolivia,0,0,7,7,2011
+Copa America,Chile,Mexico,2,1,5,7,2011
+Copa America,Mexico,Chile,1,2,5,7,2011
+Copa America,Uruguay,Peru,1,1,4,7,2011
+Copa America,Peru,Uruguay,1,1,4,7,2011
+Copa America,Brazil,Venezuela,0,0,3,7,2011
+Copa America,Paraguay,Ecuador,0,0,3,7,2011
+Copa America,Venezuela,Brazil,0,0,3,7,2011
+Copa America,Ecuador,Paraguay,0,0,3,7,2011
+Copa America,Argentina,Bolivia,1,1,2,7,2011
+Copa America,Colombia,Costa Rica,1,1,2,7,2011
+Copa America,Bolivia,Argentina,1,1,2,7,2011
+Copa America,Costa Rica,Colombia,1,1,2,7,2011
+EURO,Croatia,Turkey,1,1,20,6,2008
+EURO,Turkey,Croatia,1,1,20,6,2008
+EURO,Italy,Romania,1,1,13,6,2008
+EURO,Netherlands,France,1,1,13,6,2008
+EURO,Romania,Italy,1,1,13,6,2008
+EURO,France,Netherlands,1,1,13,6,2008
+EURO,England,Denmark,2,1,7,7,2021
+EURO,Denmark,England,1,2,7,7,2021
+Copa America,Argentina,Colombia,1,1,7,7,2021
+Copa America,Colombia,Argentina,1,1,7,7,2021
+EURO,Italy,Spain,1,1,6,7,2021
+EURO,Spain,Italy,1,1,6,7,2021
+Copa America,Brazil,Peru,1,0,6,7,2021
+Copa America,Peru,Brazil,0,1,6,7,2021
+Copa America,Argentina,Ecuador,3,0,4,7,2021
+Copa America,Ecuador,Argentina,0,3,4,7,2021
+EURO,Czech Republic,Denmark,1,2,3,7,2021
+EURO,Ukraine,England,1,2,3,7,2021
+EURO,Denmark,Czech Republic,2,1,3,7,2021
+EURO,England,Ukraine,2,1,3,7,2021
+Copa America,Brazil,Chile,1,0,3,7,2021
+Copa America,Uruguay,Colombia,1,0,3,7,2021
+Copa America,Chile,Brazil,0,1,3,7,2021
+Copa America,Colombia,Uruguay,0,1,3,7,2021
+EURO,Switzerland,Spain,1,1,2,7,2021
+EURO,Belgium,Italy,1,1,2,7,2021
+EURO,Spain,Switzerland,1,1,2,7,2021
+EURO,Italy,Belgium,1,1,2,7,2021
+Copa America,Peru,Paraguay,3,3,2,7,2021
+Copa America,Paraguay,Peru,3,3,2,7,2021
+EURO,England,Germany,2,0,29,6,2021
+EURO,Sweden,Ukraine,2,0,29,6,2021
+EURO,Germany,England,0,2,29,6,2021
+EURO,Ukraine,Sweden,0,2,29,6,2021
+Copa America,Uruguay,Paraguay,1,0,29,6,2021
+Copa America,Bolivia,Argentina,1,0,29,6,2021
+Copa America,Paraguay,Uruguay,0,1,29,6,2021
+Copa America,Argentina,Bolivia,0,1,29,6,2021
+EURO,Croatia,Spain,3,5,28,6,2021
+EURO,France,Switzerland,3,5,28,6,2021
+EURO,Spain,Croatia,5,3,28,6,2021
+EURO,Switzerland,France,5,3,28,6,2021
+EURO,Netherlands,Czech Republic,0,2,27,6,2021
+EURO,Belgium,Portugal,0,2,27,6,2021
+EURO,Czech Republic,Netherlands,2,0,27,6,2021
+EURO,Portugal,Belgium,2,0,27,6,2021
+Copa America,Brazil,Ecuador,1,1,27,6,2021
+Copa America,Venezuela,Peru,1,1,27,6,2021
+Copa America,Ecuador,Brazil,1,1,27,6,2021
+Copa America,Peru,Venezuela,1,1,27,6,2021
+EURO,Wales,Denmark,0,4,26,6,2021
+EURO,Italy,Austria,0,4,26,6,2021
+EURO,Denmark,Wales,4,0,26,6,2021
+EURO,Austria,Italy,4,0,26,6,2021
+Copa America,Chile,Paraguay,0,2,25,6,2021
+Copa America,Paraguay,Chile,2,0,25,6,2021
+Copa America,Brazil,Colombia,2,1,24,6,2021
+Copa America,Bolivia,Uruguay,2,1,24,6,2021
+Copa America,Colombia,Brazil,1,2,24,6,2021
+Copa America,Uruguay,Bolivia,1,2,24,6,2021
+EURO,Slovakia,Spain,0,5,23,6,2021
+EURO,Sweden,Poland,0,5,23,6,2021
+EURO,Portugal,France,0,5,23,6,2021
+EURO,Germany,Hungary,0,5,23,6,2021
+EURO,Spain,Slovakia,5,0,23,6,2021
+EURO,Poland,Sweden,5,0,23,6,2021
+EURO,France,Portugal,5,0,23,6,2021
+EURO,Hungary,Germany,5,0,23,6,2021
+Copa America,Ecuador,Peru,2,2,23,6,2021
+Copa America,Peru,Ecuador,2,2,23,6,2021
+EURO,Czech Republic,England,0,1,22,6,2021
+EURO,Croatia,Scotland,0,1,22,6,2021
+EURO,England,Czech Republic,1,0,22,6,2021
+EURO,Scotland,Croatia,1,0,22,6,2021
+Copa America,Argentina,Paraguay,1,0,22,6,2021
+Copa America,Paraguay,Argentina,0,1,22,6,2021
+EURO,Macedonia,Netherlands,0,3,21,6,2021
+EURO,Ukraine,Austria,0,3,21,6,2021
+EURO,Russia,Denmark,0,3,21,6,2021
+EURO,Finland,Belgium,0,3,21,6,2021
+EURO,Netherlands,Macedonia,3,0,21,6,2021
+EURO,Austria,Ukraine,3,0,21,6,2021
+EURO,Denmark,Russia,3,0,21,6,2021
+EURO,Belgium,Finland,3,0,21,6,2021
+Copa America,Colombia,Peru,1,2,21,6,2021
+Copa America,Uruguay,Chile,1,2,21,6,2021
+Copa America,Peru,Colombia,2,1,21,6,2021
+Copa America,Chile,Uruguay,2,1,21,6,2021
+EURO,Italy,Wales,1,0,20,6,2021
+EURO,Switzerland,Turkey,1,0,20,6,2021
+EURO,Wales,Italy,0,1,20,6,2021
+EURO,Turkey,Switzerland,0,1,20,6,2021
+Copa America,Venezuela,Ecuador,2,2,20,6,2021
+Copa America,Ecuador,Venezuela,2,2,20,6,2021
+EURO,Hungary,France,1,1,19,6,2021
+EURO,Portugal,Germany,1,1,19,6,2021
+EURO,Spain,Poland,1,1,19,6,2021
+EURO,France,Hungary,1,1,19,6,2021
+EURO,Germany,Portugal,1,1,19,6,2021
+EURO,Poland,Spain,1,1,19,6,2021
+Copa America,Argentina,Uruguay,1,0,19,6,2021
+Copa America,Uruguay,Argentina,0,1,19,6,2021
+EURO,Sweden,Slovakia,1,0,18,6,2021
+EURO,Croatia,Czech Republic,1,0,18,6,2021
+EURO,England,Scotland,1,0,18,6,2021
+EURO,Slovakia,Sweden,0,1,18,6,2021
+EURO,Czech Republic,Croatia,0,1,18,6,2021
+EURO,Scotland,England,0,1,18,6,2021
+Copa America,Brazil,Peru,4,0,18,6,2021
+Copa America,Chile,Bolivia,4,0,18,6,2021
+Copa America,Peru,Brazil,0,4,18,6,2021
+Copa America,Bolivia,Chile,0,4,18,6,2021
+EURO,Ukraine,Macedonia,2,1,17,6,2021
+EURO,Denmark,Belgium,2,1,17,6,2021
+EURO,Netherlands,Austria,2,1,17,6,2021
+EURO,Macedonia,Ukraine,1,2,17,6,2021
+EURO,Belgium,Denmark,1,2,17,6,2021
+EURO,Austria,Netherlands,1,2,17,6,2021
+Copa America,Colombia,Venezuela,0,0,17,6,2021
+Copa America,Venezuela,Colombia,0,0,17,6,2021
+EURO,Finland,Russia,0,1,16,6,2021
+EURO,Turkey,Wales,0,1,16,6,2021
+EURO,Italy,Switzerland,0,1,16,6,2021
+EURO,Russia,Finland,1,0,16,6,2021
+EURO,Wales,Turkey,1,0,16,6,2021
+EURO,Switzerland,Italy,1,0,16,6,2021
+EURO,Hungary,Portugal,0,3,15,6,2021
+EURO,France,Germany,0,3,15,6,2021
+EURO,Portugal,Hungary,3,0,15,6,2021
+EURO,Germany,France,3,0,15,6,2021
+Copa America,Paraguay,Bolivia,3,1,15,6,2021
+Copa America,Bolivia,Paraguay,1,3,15,6,2021
+EURO,Scotland,Czech Republic,0,2,14,6,2021
+EURO,Poland,Slovakia,0,2,14,6,2021
+EURO,Spain,Sweden,0,2,14,6,2021
+EURO,Czech Republic,Scotland,2,0,14,6,2021
+EURO,Slovakia,Poland,2,0,14,6,2021
+EURO,Sweden,Spain,2,0,14,6,2021
+Copa America,Colombia,Ecuador,1,0,14,6,2021
+Copa America,Argentina,Chile,1,0,14,6,2021
+Copa America,Ecuador,Colombia,0,1,14,6,2021
+Copa America,Chile,Argentina,0,1,14,6,2021
+EURO,England,Croatia,1,0,13,6,2021
+EURO,Austria,Macedonia,1,0,13,6,2021
+EURO,Netherlands,Ukraine,1,0,13,6,2021
+EURO,Croatia,England,0,1,13,6,2021
+EURO,Macedonia,Austria,0,1,13,6,2021
+EURO,Ukraine,Netherlands,0,1,13,6,2021
+Copa America,Brazil,Venezuela,3,0,13,6,2021
+Copa America,Venezuela,Brazil,0,3,13,6,2021
+EURO,Wales,Switzerland,1,1,12,6,2021
+EURO,Denmark,Finland,1,1,12,6,2021
+EURO,Belgium,Russia,1,1,12,6,2021
+EURO,Switzerland,Wales,1,1,12,6,2021
+EURO,Finland,Denmark,1,1,12,6,2021
+EURO,Russia,Belgium,1,1,12,6,2021
+EURO,Turkey,Italy,0,3,11,6,2021
+EURO,Italy,Turkey,3,0,11,6,2021
